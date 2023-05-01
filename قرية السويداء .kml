@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="mm_folder_color_0">
+      <IconStyle>
+        <color>ff00b371</color>
+        <colorMode>normal</colorMode>
+        <scale>1</scale>
+      </IconStyle>
+      <LineStyle>
+        <color>ff00b371</color>
+      </LineStyle>
+      <PolyStyle>
+        <color>ff00b371</color>
+      </PolyStyle>
+    </Style>
+    <Folder id="0">
+      <styleUrl>#mm_folder_color_0</styleUrl>
+      <name></name>
+      <ExtendedData>
+        <Data name="com_exlyo_mapmarker_piniconcode">
+          <value>-1</value>
+        </Data>
+        <Data name="com_exlyo_mapmarker_customfields">
+          <value>[]</value>
+        </Data>
+      </ExtendedData>
+      <Style id="mm_marker_color_3">
+        <IconStyle>
+          <color>ff8b7d60</color>
+          <colorMode>normal</colorMode>
+          <scale>1</scale>
+        </IconStyle>
+        <LineStyle>
+          <color>ff8b7d60</color>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff8b7d60</color>
+        </PolyStyle>
+      </Style>
+      <Placemark id="3">
+        <name>قرية السويداء </name>
+        <description><![CDATA[
+<pre id="com.exlyo.mapmarker.description_p_tag"></pre>]]>
+        </description>
+        <phoneNumber></phoneNumber>
+        <Point>
+          <coordinates>43.80645990371705,13.766633686874476</coordinates>
+        </Point>
+        <TimeStamp>
+          <when>2022-03-13T17:43:33Z</when>
+        </TimeStamp>
+        <ExtendedData>
+          <Data name="com_exlyo_mapmarker_piniconcode">
+            <value>-10</value>
+          </Data>
+          <Data name="com_exlyo_mapmarker_customfields">
+            <value>[]</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#mm_marker_color_3</styleUrl>
+      </Placemark>
+      <Style id="mm_marker_color_2">
+        <IconStyle>
+          <color>ff9e9e9e</color>
+          <colorMode>normal</colorMode>
+          <scale>1</scale>
+        </IconStyle>
+        <LineStyle>
+          <color>ff9e9e9e</color>
+        </LineStyle>
+        <PolyStyle>
+          <color>ff9e9e9e</color>
+        </PolyStyle>
+      </Style>
+      <Placemark id="2">
+        <name>حدود السويداء </name>
+        <description><![CDATA[
+<pre id="com.exlyo.mapmarker.description_p_tag"></pre>]]>
+        </description>
+        <phoneNumber></phoneNumber>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates> 43.80772590637208,13.763862108766002 43.806783109903336,13.764547923537865 43.8061548024416,13.76473028610173 43.80522005259991,13.764669715694493 43.80465645343065,13.764613378688752 43.80410224199295,13.765257508499953 43.8038993999362,13.765927036898605 43.80387023091316,13.76667862583299 43.80377065305145,13.767083075124999 43.803883641332,13.76749745692063 43.80460943034435,13.767914321947018 43.80509830469461,13.768132889524187 43.80586778184343,13.769013455187963 43.80681393980462,13.769850041982796 43.808146342635155,13.770646897202461 43.808715640617535,13.771008682302083 43.809676042901145,13.770186443707486 43.81034617711395,13.769306236861775 43.810695156772695,13.768558563351915 43.81094022190366,13.76780209529922 43.81106275387454,13.767423861182012 43.811075739921954,13.767019818800142 43.81101936857826,13.766724500376343 43.81050603732449,13.766224493330386 43.809963716464466,13.765762819826808 43.80942139774561,13.765301145136844</coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+        <ExtendedData>
+          <Data name="com_exlyo_mapmarker_piniconcode">
+            <value>-1</value>
+          </Data>
+          <Data name="com_exlyo_mapmarker_customfields">
+            <value>[]</value>
+          </Data>
+        </ExtendedData>
+        <styleUrl>#mm_marker_color_2</styleUrl>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
